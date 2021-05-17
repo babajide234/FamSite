@@ -1,0 +1,19 @@
+{
+  "name": "famsite",
+  "version": "1.0.0",
+  "description": "family directory website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babajide234/FamSite.git"
+  },
+  "author": "Babajide Tomoshegbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babajide234/FamSite/issues"
+  },
+  "homepage": "https://github.com/babajide234/FamSite#readme"
+}
