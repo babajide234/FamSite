@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 100px;
+  max-height: 60px;
 }
 
 /*--------------------------------------------------------------
@@ -334,10 +334,12 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   text-align: center;
   position: relative;
-  height: 70vh;
+  height: 90vh;
   padding-top: 60px;
 }
-
+#hero .carousel-container img{
+  height: 300px;
+}
 #hero h2 {
   color: #fff;
   margin-bottom: 30px;
